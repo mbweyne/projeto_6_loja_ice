@@ -1,0 +1,24 @@
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Dados e arquivos temporários
+*.csv
+*.tsv
+*.zip
+*.json
+*.xls
+*.xlsx
+
+# Arquivos ocultos de sistema
+.DS_Store
+Thumbs.db
+
+# Ambiente virtual
+venv/
+env/
+ENV/
+*.pyc
+__pycache__/
+
+# Arquivos de configuração pessoais
+*.env
